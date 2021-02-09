@@ -1,0 +1,23 @@
+essm l chatbot: BioBot
+Intro: Hi I'm BioBot. I’m here to help you discover our 
+website.
+Here is a quick overview over our website. Ask me about the different options to dive deeper.
+
+some options
+
+events    http://embs-insat.ieee.tn/activities
+trainings    http://embs-insat.ieee.tn/activities
+industrial visits    http://embs-insat.ieee.tn/activities
+charity work     http://embs-insat.ieee.tn/newsletter
+collaborations    http://embs-insat.ieee.tn/newsletter
+sponsors   http://embs-insat.ieee.tn/
+
+----------------------------------------------------------
+
+msg lel kol: Awesome. click here to check some more information
+
+links : cercle thezek lel page
+
+
+ekher else:
+How can I help you? Below are some possible options.
